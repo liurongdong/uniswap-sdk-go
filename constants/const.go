@@ -65,6 +65,8 @@ var (
 )
 
 var (
-	FactoryAddress = common.HexToAddress("0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f")
-	InitCodeHash   = common.FromHex("0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f")
+	FactoryAddress = common.HexToAddress("0x10ED43C718714eb63d5aA57B78B54704E256024E")
+	//PancakeAddress      = common.HexToAddress("")
+	//InitCodeHash        = common.FromHex("0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f")
+	InitCodeHash = common.FromHex("0x00fb7f630766e6a796048ea87d01acd3068e8ff67d078148a3fa3f4a84f69bd5")
 )
